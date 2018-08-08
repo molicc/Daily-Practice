@@ -1,3 +1,5 @@
+package RandomScanner;
+
 import java.util.HashSet;
 
 /**
