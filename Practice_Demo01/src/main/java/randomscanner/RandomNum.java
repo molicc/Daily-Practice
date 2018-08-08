@@ -1,4 +1,4 @@
-package RandomScanner;
+package randomscanner;
 
 import java.util.HashSet;
 

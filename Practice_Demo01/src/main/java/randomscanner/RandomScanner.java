@@ -1,4 +1,4 @@
-package RandomScanner;
+package randomscanner;
 
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
