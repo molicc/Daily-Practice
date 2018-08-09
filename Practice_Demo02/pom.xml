@@ -6,7 +6,11 @@
 
     <groupId>com.dx.practice</groupId>
     <artifactId>Practice_Demo02</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../Practice_Demo03</module>
+    </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
         <dependency>
